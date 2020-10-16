@@ -1,4 +1,4 @@
-# FnitMCSAssistant-plugin
+# MCSAssistant-plugin
 Spigot plugin : send user's statistics via Http POST
 
 ## What is this
@@ -10,9 +10,6 @@ Spigot plugin : send user's statistics via Http POST
 
 ## Support
 * version 1.12.1+
-
-## Download
-https://github.com/Fnit-Crafters/FnitMCSAssistant-plugin/raw/master/out/artifacts/FnitMCSAssistant_plugin_jar/FnitMCSAssistant-plugin.jar
 
 ## Installation
 1. Download the jar file and drop it into your plugins folder
@@ -83,7 +80,7 @@ https://github.com/Fnit-Crafters/FnitMCSAssistant-plugin/raw/master/out/artifact
 ```
 
 ## Author
-TaikiFnit
+Nighttzzz
 
 ---
 
@@ -98,9 +95,6 @@ TaikiFnit
 ## Support
 * version 1.12.1+
 
-## Download
-https://github.com/Fnit-Crafters/FnitMCSAssistant-plugin/raw/master/out/artifacts/FnitMCSAssistant_plugin_jar/FnitMCSAssistant-plugin.jar
-
 ## 導入
 1. jarファイルをダウンロードして `plugins` フォルダに入れてください
 2. Serverを一度起動することにより, config.ymlファイルが自動で生成されます
@@ -110,4 +104,4 @@ https://github.com/Fnit-Crafters/FnitMCSAssistant-plugin/raw/master/out/artifact
 Request Json sample と同じ
 
 ## Author
-TaikiFnit
+Nighttzzz
