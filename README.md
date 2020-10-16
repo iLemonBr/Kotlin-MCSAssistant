@@ -1,2 +1,2 @@
 # Kotlin-MCSAssistant
-**MCSAssistant Kotlin Plugin**
+away some minecraft plugin
