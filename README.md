@@ -81,27 +81,3 @@ Spigot plugin : send user's statistics via Http POST
 
 ## Author
 Nighttzzz
-
----
-
-## これはなんですか
-* Minecraft Spigot Serverで動くPluginです
-
-## このプラグインについて
-* 設定したURLに対して, サーバーに参加しているユーザーの統計データとオンラインの状況を送信します
-* HTTPを経由してJSON形式でデータをPOSTします
-* プレイヤーがサーバーに参加した時, 退出した時にデータが送信されます
-
-## Support
-* version 1.12.1+
-
-## 導入
-1. jarファイルをダウンロードして `plugins` フォルダに入れてください
-2. Serverを一度起動することにより, config.ymlファイルが自動で生成されます
-3. 生成されたconfig.ymlファイルにHTTP POSTをしたいurlを書き込んでください
-
-## 送信されるJSONの形式
-Request Json sample と同じ
-
-## Author
-Nighttzzz
